@@ -1,0 +1,93 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.b_labs.network.enums////PointingToDeclaration/network/com.b_labs.network.enums/index.html
+$dokka.location:com.b_labs.network.enums/Header.HEADER_AUTHORIZATION///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.enums/-header/-h-e-a-d-e-r_-a-u-t-h-o-r-i-z-a-t-i-o-n/index.html
+$dokka.location:com.b_labs.network.enums/Header.HEADER_LANG///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.enums/-header/-h-e-a-d-e-r_-l-a-n-g/index.html
+$dokka.location:com.b_labs.network.enums/Header///PointingToDeclaration/network/com.b_labs.network.enums/-header/index.html
+$dokka.location:com.b_labs.network.enums/Header/entries/#/PointingToDeclaration/network/com.b_labs.network.enums/-header/entries.html
+$dokka.location:com.b_labs.network.enums/Header/header/#/PointingToDeclaration/network/com.b_labs.network.enums/-header/header.html
+$dokka.location:com.b_labs.network.enums/Header/valueOf/#kotlin.String/PointingToDeclaration/network/com.b_labs.network.enums/-header/value-of.html
+$dokka.location:com.b_labs.network.enums/Header/values/#/PointingToDeclaration/network/com.b_labs.network.enums/-header/values.html
+$dokka.location:com.b_labs.network.interfaces////PointingToDeclaration/network/com.b_labs.network.interfaces/index.html
+$dokka.location:com.b_labs.network.interfaces/BaseNetworkLayer///PointingToDeclaration/network/com.b_labs.network.interfaces/-base-network-layer/index.html
+$dokka.location:com.b_labs.network.interfaces/BaseNetworkLayer/BaseNetworkLayer/#com.b_labs.network.interfaces.NetworkProviderInterface/PointingToDeclaration/network/com.b_labs.network.interfaces/-base-network-layer/-base-network-layer.html
+$dokka.location:com.b_labs.network.interfaces/BaseNetworkLayer/callApi/#com.b_labs.network.request.NetworkRequestBuilder#java.lang.Class[TypeParam(bounds=[kotlin.Any?])]#java.lang.Class[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/network/com.b_labs.network.interfaces/-base-network-layer/call-api.html
+$dokka.location:com.b_labs.network.interfaces/BaseNetworkLayer/callApi/#com.b_labs.network.request.NetworkRequestBuilder#java.lang.Class[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/network/com.b_labs.network.interfaces/-base-network-layer/call-api.html
+$dokka.location:com.b_labs.network.interfaces/NetworkProviderInterface///PointingToDeclaration/network/com.b_labs.network.interfaces/-network-provider-interface/index.html
+$dokka.location:com.b_labs.network.interfaces/NetworkProviderInterface/callApi/#com.b_labs.network.request.NetworkRequestBuilder/PointingToDeclaration/network/com.b_labs.network.interfaces/-network-provider-interface/call-api.html
+$dokka.location:com.b_labs.network.provider.retrofit////PointingToDeclaration/network/com.b_labs.network.provider.retrofit/index.html
+$dokka.location:com.b_labs.network.provider.retrofit/RetrofitNetworkProvider///PointingToDeclaration/network/com.b_labs.network.provider.retrofit/-retrofit-network-provider/index.html
+$dokka.location:com.b_labs.network.provider.retrofit/RetrofitNetworkProvider/RetrofitNetworkProvider/#kotlin.Array[com.b_labs.network.request.Header]/PointingToDeclaration/network/com.b_labs.network.provider.retrofit/-retrofit-network-provider/-retrofit-network-provider.html
+$dokka.location:com.b_labs.network.provider.retrofit/RetrofitNetworkProvider/callApi/#com.b_labs.network.request.NetworkRequestBuilder/PointingToDeclaration/network/com.b_labs.network.provider.retrofit/-retrofit-network-provider/call-api.html
+$dokka.location:com.b_labs.network.request////PointingToDeclaration/network/com.b_labs.network.request/index.html
+$dokka.location:com.b_labs.network.request/Header///PointingToDeclaration/network/com.b_labs.network.request/-header/index.html
+$dokka.location:com.b_labs.network.request/Header/Header/#com.b_labs.network.enums.Header#kotlin.String/PointingToDeclaration/network/com.b_labs.network.request/-header/-header.html
+$dokka.location:com.b_labs.network.request/Header/headerKey/#/PointingToDeclaration/network/com.b_labs.network.request/-header/header-key.html
+$dokka.location:com.b_labs.network.request/Header/headerValue/#/PointingToDeclaration/network/com.b_labs.network.request/-header/header-value.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder.Builder///PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/-builder/index.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder.Builder/Builder/#/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/-builder/-builder.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder.Builder/baseUrl/#kotlin.String/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/-builder/base-url.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder.Builder/bodyParams/#kotlin.collections.Map[kotlin.String,kotlin.Any]/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/-builder/body-params.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder.Builder/build/#/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/-builder/build.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder.Builder/endPointUrl/#kotlin.String/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/-builder/end-point-url.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder.Builder/files/#kotlin.collections.List[java.io.File]/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/-builder/files.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder.Builder/headerParams/#kotlin.String#kotlin.String/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/-builder/header-params.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder.Builder/requestMethod/#com.b_labs.network.request.NetworkRequestType/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/-builder/request-method.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder.Builder/requestTimeOut/#kotlin.Long/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/-builder/request-time-out.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder///PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/index.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder/baseUrl/#/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/base-url.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder/bodyParams/#/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/body-params.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder/endPointUrl/#/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/end-point-url.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder/files/#/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/files.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder/headersParams/#/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/headers-params.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder/requestMethod/#/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/request-method.html
+$dokka.location:com.b_labs.network.request/NetworkRequestBuilder/timeoutInSeconds/#/PointingToDeclaration/network/com.b_labs.network.request/-network-request-builder/timeout-in-seconds.html
+$dokka.location:com.b_labs.network.request/NetworkRequestType.DELETE///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.request/-network-request-type/-d-e-l-e-t-e/index.html
+$dokka.location:com.b_labs.network.request/NetworkRequestType.GET///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.request/-network-request-type/-g-e-t/index.html
+$dokka.location:com.b_labs.network.request/NetworkRequestType.POST///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.request/-network-request-type/-p-o-s-t/index.html
+$dokka.location:com.b_labs.network.request/NetworkRequestType.POST_WITH_FILES///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.request/-network-request-type/-p-o-s-t_-w-i-t-h_-f-i-l-e-s/index.html
+$dokka.location:com.b_labs.network.request/NetworkRequestType.PUT///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.request/-network-request-type/-p-u-t/index.html
+$dokka.location:com.b_labs.network.request/NetworkRequestType///PointingToDeclaration/network/com.b_labs.network.request/-network-request-type/index.html
+$dokka.location:com.b_labs.network.request/NetworkRequestType/entries/#/PointingToDeclaration/network/com.b_labs.network.request/-network-request-type/entries.html
+$dokka.location:com.b_labs.network.request/NetworkRequestType/valueOf/#kotlin.String/PointingToDeclaration/network/com.b_labs.network.request/-network-request-type/value-of.html
+$dokka.location:com.b_labs.network.request/NetworkRequestType/values/#/PointingToDeclaration/network/com.b_labs.network.request/-network-request-type/values.html
+$dokka.location:com.b_labs.network.response////PointingToDeclaration/network/com.b_labs.network.response/index.html
+$dokka.location:com.b_labs.network.response/NetworkCodeError.BAD_REQUEST///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.response/-network-code-error/-b-a-d_-r-e-q-u-e-s-t/index.html
+$dokka.location:com.b_labs.network.response/NetworkCodeError.FORBIDDEN///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.response/-network-code-error/-f-o-r-b-i-d-d-e-n/index.html
+$dokka.location:com.b_labs.network.response/NetworkCodeError.INVALID_PARAMETER///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.response/-network-code-error/-i-n-v-a-l-i-d_-p-a-r-a-m-e-t-e-r/index.html
+$dokka.location:com.b_labs.network.response/NetworkCodeError.NOT_FOUND///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.response/-network-code-error/-n-o-t_-f-o-u-n-d/index.html
+$dokka.location:com.b_labs.network.response/NetworkCodeError.NO_AVAILABLE_DATA///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.response/-network-code-error/-n-o_-a-v-a-i-l-a-b-l-e_-d-a-t-a/index.html
+$dokka.location:com.b_labs.network.response/NetworkCodeError.NO_INTERNET_CONNECTION///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.response/-network-code-error/-n-o_-i-n-t-e-r-n-e-t_-c-o-n-n-e-c-t-i-o-n/index.html
+$dokka.location:com.b_labs.network.response/NetworkCodeError.SERVER_NOT_REACHABLE///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.response/-network-code-error/-s-e-r-v-e-r_-n-o-t_-r-e-a-c-h-a-b-l-e/index.html
+$dokka.location:com.b_labs.network.response/NetworkCodeError.UNAUTHORIZED///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}network/com.b_labs.network.response/-network-code-error/-u-n-a-u-t-h-o-r-i-z-e-d/index.html
+$dokka.location:com.b_labs.network.response/NetworkCodeError///PointingToDeclaration/network/com.b_labs.network.response/-network-code-error/index.html
+$dokka.location:com.b_labs.network.response/NetworkCodeError/entries/#/PointingToDeclaration/network/com.b_labs.network.response/-network-code-error/entries.html
+$dokka.location:com.b_labs.network.response/NetworkCodeError/valueOf/#kotlin.String/PointingToDeclaration/network/com.b_labs.network.response/-network-code-error/value-of.html
+$dokka.location:com.b_labs.network.response/NetworkCodeError/values/#/PointingToDeclaration/network/com.b_labs.network.response/-network-code-error/values.html
+$dokka.location:com.b_labs.network.response/NetworkResponseState.Fail///PointingToDeclaration/network/com.b_labs.network.response/-network-response-state/-fail/index.html
+$dokka.location:com.b_labs.network.response/NetworkResponseState.Fail/Fail/#com.b_labs.network.response.NetworkCodeError?#kotlin.String?#TypeParam(bounds=[kotlin.Any?])?/PointingToDeclaration/network/com.b_labs.network.response/-network-response-state/-fail/-fail.html
+$dokka.location:com.b_labs.network.response/NetworkResponseState.Fail/error/#/PointingToDeclaration/network/com.b_labs.network.response/-network-response-state/-fail/error.html
+$dokka.location:com.b_labs.network.response/NetworkResponseState.Fail/errorResponseModel/#/PointingToDeclaration/network/com.b_labs.network.response/-network-response-state/-fail/error-response-model.html
+$dokka.location:com.b_labs.network.response/NetworkResponseState.Fail/errorType/#/PointingToDeclaration/network/com.b_labs.network.response/-network-response-state/-fail/error-type.html
+$dokka.location:com.b_labs.network.response/NetworkResponseState.Success///PointingToDeclaration/network/com.b_labs.network.response/-network-response-state/-success/index.html
+$dokka.location:com.b_labs.network.response/NetworkResponseState.Success/Success/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/network/com.b_labs.network.response/-network-response-state/-success/-success.html
+$dokka.location:com.b_labs.network.response/NetworkResponseState.Success/results/#/PointingToDeclaration/network/com.b_labs.network.response/-network-response-state/-success/results.html
+$dokka.location:com.b_labs.network.response/NetworkResponseState///PointingToDeclaration/network/com.b_labs.network.response/-network-response-state/index.html
+$dokka.location:com.b_labs.network.response/NetworkUtils///PointingToDeclaration/network/com.b_labs.network.response/-network-utils/index.html
+$dokka.location:com.b_labs.network.response/NetworkUtils/getNetworkErrorType/#kotlin.Int/PointingToDeclaration/network/com.b_labs.network.response/-network-utils/get-network-error-type.html
+$dokka.location:com.b_labs.network.response/ProviderResponseData///PointingToDeclaration/network/com.b_labs.network.response/-provider-response-data/index.html
+$dokka.location:com.b_labs.network.response/ProviderResponseData/ProviderResponseData/#kotlin.Boolean#kotlin.Int#kotlin.Any?/PointingToDeclaration/network/com.b_labs.network.response/-provider-response-data/-provider-response-data.html
+$dokka.location:com.b_labs.network.response/ProviderResponseData/body/#/PointingToDeclaration/network/com.b_labs.network.response/-provider-response-data/body.html
+$dokka.location:com.b_labs.network.response/ProviderResponseData/code/#/PointingToDeclaration/network/com.b_labs.network.response/-provider-response-data/code.html
+$dokka.location:com.b_labs.network.response/ProviderResponseData/isSuccess/#/PointingToDeclaration/network/com.b_labs.network.response/-provider-response-data/is-success.html
+$dokka.location:com.b_labs.network////PointingToDeclaration/network/com.b_labs.network/index.html
+$dokka.location:com.b_labs.network/NetworkLayer///PointingToDeclaration/network/com.b_labs.network/-network-layer/index.html
+$dokka.location:com.b_labs.network/NetworkLayer/NetworkLayer/#com.b_labs.network.interfaces.NetworkProviderInterface/PointingToDeclaration/network/com.b_labs.network/-network-layer/-network-layer.html
+$dokka.location:com.b_labs.network/NetworkLayer/callApi/#com.b_labs.network.request.NetworkRequestBuilder#java.lang.Class[TypeParam(bounds=[kotlin.Any?])]#java.lang.Class[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/network/com.b_labs.network/-network-layer/call-api.html
+com.b_labs.network
+com.b_labs.network.enums
+com.b_labs.network.interfaces
+com.b_labs.network.provider.retrofit
+com.b_labs.network.request
+com.b_labs.network.response
+

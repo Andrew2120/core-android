@@ -1,0 +1,40 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.b_labs.datapersistence////PointingToDeclaration/data-persistence/com.b_labs.datapersistence/index.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferences///PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences/index.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferences/clearDataStore/#/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences/clear-data-store.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferences/getData/#com.b_labs.datapersistence.PreferencesKey/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences/get-data.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferences/getEncryptedData/#androidx.datastore.preferences.core.Preferences.Key[kotlin.String]/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences/get-encrypted-data.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferences/removePreference/#androidx.datastore.preferences.core.Preferences.Key[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences/remove-preference.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferences/setData/#TypeParam(bounds=[kotlin.Any?])#com.b_labs.datapersistence.PreferencesKey/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences/set-data.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferences/setEncryptedData/#kotlin.String#androidx.datastore.preferences.core.Preferences.Key[kotlin.String]/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences/set-encrypted-data.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferencesImpl///PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences-impl/index.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferencesImpl/LocalPreferencesImpl/#kotlin.String#android.content.Context/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences-impl/-local-preferences-impl.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferencesImpl/clearDataStore/#/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences-impl/clear-data-store.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferencesImpl/getData/#com.b_labs.datapersistence.PreferencesKey/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences-impl/get-data.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferencesImpl/getEncryptedData/#androidx.datastore.preferences.core.Preferences.Key[kotlin.String]/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences-impl/get-encrypted-data.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferencesImpl/removePreference/#androidx.datastore.preferences.core.Preferences.Key[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences-impl/remove-preference.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferencesImpl/setData/#TypeParam(bounds=[kotlin.Any?])#com.b_labs.datapersistence.PreferencesKey/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences-impl/set-data.html
+$dokka.location:com.b_labs.datapersistence/LocalPreferencesImpl/setEncryptedData/#kotlin.String#androidx.datastore.preferences.core.Preferences.Key[kotlin.String]/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-local-preferences-impl/set-encrypted-data.html
+$dokka.location:com.b_labs.datapersistence/PreferencesConstants///PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-preferences-constants/index.html
+$dokka.location:com.b_labs.datapersistence/PreferencesConstants/BYTES_TO_STRING_SEPARATOR/#/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-preferences-constants/-b-y-t-e-s_-t-o_-s-t-r-i-n-g_-s-e-p-a-r-a-t-o-r.html
+$dokka.location:com.b_labs.datapersistence/PreferencesConstants/PROVIDER/#/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-preferences-constants/-p-r-o-v-i-d-e-r.html
+$dokka.location:com.b_labs.datapersistence/PreferencesConstants/SECURITY_KEY_ALIES/#/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-preferences-constants/-s-e-c-u-r-i-t-y_-k-e-y_-a-l-i-e-s.html
+$dokka.location:com.b_labs.datapersistence/PreferencesConstants/TRANSFORMATION/#/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-preferences-constants/-t-r-a-n-s-f-o-r-m-a-t-i-o-n.html
+$dokka.location:com.b_labs.datapersistence/PreferencesConstants/UTF_8/#/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-preferences-constants/-u-t-f_8.html
+$dokka.location:com.b_labs.datapersistence/PreferencesKey///PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-preferences-key/index.html
+$dokka.location:com.b_labs.datapersistence/PreferencesKey/PreferencesKey/#com.b_labs.datapersistence.Types#kotlin.String/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-preferences-key/-preferences-key.html
+$dokka.location:com.b_labs.datapersistence/PreferencesKey/name/#/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-preferences-key/name.html
+$dokka.location:com.b_labs.datapersistence/PreferencesKey/type/#/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-preferences-key/type.html
+$dokka.location:com.b_labs.datapersistence/Types.Boolean///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}data-persistence/com.b_labs.datapersistence/-types/-boolean/index.html
+$dokka.location:com.b_labs.datapersistence/Types.Double///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}data-persistence/com.b_labs.datapersistence/-types/-double/index.html
+$dokka.location:com.b_labs.datapersistence/Types.Float///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}data-persistence/com.b_labs.datapersistence/-types/-float/index.html
+$dokka.location:com.b_labs.datapersistence/Types.Int///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}data-persistence/com.b_labs.datapersistence/-types/-int/index.html
+$dokka.location:com.b_labs.datapersistence/Types.Long///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}data-persistence/com.b_labs.datapersistence/-types/-long/index.html
+$dokka.location:com.b_labs.datapersistence/Types.String///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}data-persistence/com.b_labs.datapersistence/-types/-string/index.html
+$dokka.location:com.b_labs.datapersistence/Types///PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-types/index.html
+$dokka.location:com.b_labs.datapersistence/Types/entries/#/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-types/entries.html
+$dokka.location:com.b_labs.datapersistence/Types/valueOf/#kotlin.String/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-types/value-of.html
+$dokka.location:com.b_labs.datapersistence/Types/values/#/PointingToDeclaration/data-persistence/com.b_labs.datapersistence/-types/values.html
+com.b_labs.datapersistence
+

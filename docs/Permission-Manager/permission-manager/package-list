@@ -1,0 +1,20 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.b_labs.permissionmanager////PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/index.html
+$dokka.location:com.b_labs.permissionmanager/Permission.Camera///PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission/-camera/index.html
+$dokka.location:com.b_labs.permissionmanager/Permission.Companion///PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission/-companion/index.html
+$dokka.location:com.b_labs.permissionmanager/Permission.Companion/from/#kotlin.String/PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission/-companion/from.html
+$dokka.location:com.b_labs.permissionmanager/Permission.Location///PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission/-location/index.html
+$dokka.location:com.b_labs.permissionmanager/Permission.Phone///PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission/-phone/index.html
+$dokka.location:com.b_labs.permissionmanager/Permission.ReadPhoneState///PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission/-read-phone-state/index.html
+$dokka.location:com.b_labs.permissionmanager/Permission.Storage///PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission/-storage/index.html
+$dokka.location:com.b_labs.permissionmanager/Permission///PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission/index.html
+$dokka.location:com.b_labs.permissionmanager/Permission/permission/#/PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission/permission.html
+$dokka.location:com.b_labs.permissionmanager/PermissionManager.Companion///PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission-manager/-companion/index.html
+$dokka.location:com.b_labs.permissionmanager/PermissionManager.Companion/from/#androidx.activity.ComponentActivity/PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission-manager/-companion/from.html
+$dokka.location:com.b_labs.permissionmanager/PermissionManager///PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission-manager/index.html
+$dokka.location:com.b_labs.permissionmanager/PermissionManager/PermissionManager/#java.lang.ref.WeakReference[androidx.activity.ComponentActivity]/PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission-manager/-permission-manager.html
+$dokka.location:com.b_labs.permissionmanager/PermissionManager/checkPermission/#kotlin.Function1[kotlin.collections.Map[com.b_labs.permissionmanager.Permission,kotlin.Boolean],kotlin.Unit]/PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission-manager/check-permission.html
+$dokka.location:com.b_labs.permissionmanager/PermissionManager/request/#kotlin.Array[com.b_labs.permissionmanager.Permission]/PointingToDeclaration/permission-manager/com.b_labs.permissionmanager/-permission-manager/request.html
+com.b_labs.permissionmanager
+
